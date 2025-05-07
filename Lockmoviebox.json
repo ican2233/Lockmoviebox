@@ -1,3 +1,6 @@
 [
   {"id": "def456", "username": "user2", "key": "key2"}
+  {
+  "loginEnabled": true
+  }
 ]
