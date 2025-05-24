@@ -9,6 +9,12 @@
     "id": "8581d192eb2df2e4",
     "key": "user1",
     "expiresAt": "2025-06-01",
-    "allowOffline": false
+    "allowOffline": true
+  },
+  {
+    "id": "5df6c14bf78b974d",
+    "key": "user2",
+    "expiresAt": "2025-06-01",
+    "allowOffline": true
   }
 ]
