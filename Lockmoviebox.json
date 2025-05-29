@@ -12,6 +12,12 @@
     "allowOffline": true
   },
   {
+    "id": "a5b4a3d46b13b8f0",
+    "key": "user3",
+    "expiresAt": "2025-06-20",
+    "allowOffline": true
+  },
+  {
     "id": "640169d5e0b29aae",
     "key": "yeyen",
     "expiresAt": "2030-06-01",
