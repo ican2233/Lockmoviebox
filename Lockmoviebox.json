@@ -24,6 +24,12 @@
     "allowOffline": true
   },
   {
+    "id": "8581d192eb2df2e4",
+    "key": "imam",
+    "expiresAt": "2030-06-01",
+    "allowOffline": true
+  },
+  {
     "id": "5df6c14bf78b974d",
     "key": "user2",
     "expiresAt": "2025-06-01",
