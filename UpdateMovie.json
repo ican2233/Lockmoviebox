@@ -1,8 +1,8 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "3.0.02.0509.03",
-    "mandatory": false,
+    "version": "3.0.05.0620.03",
+    "mandatory": true,
     "update_url": "https://t.me/melawanbudayadominan",
     "title": "Update Available",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
