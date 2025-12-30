@@ -20,8 +20,8 @@
   {
     "id": "a5b4a3d46b13b8f0",
     "key": "user3",
-    "expiresAt": "2025-07-20",
-    "allowOffline": true
+    "expiresAt": "2026-02-28",
+    "allowOffline": "true"
   },
   {
     "id": "640169d5e0b29aae",
