@@ -46,5 +46,11 @@
     "key": "Tester",
     "expiresAt": "2027-02-03",
     "allowOffline": true
+  },
+  {
+    "id": "cc5df6e4f2e4a8a3",
+    "key": "arip",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
   }
 ]
